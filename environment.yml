@@ -1,4 +1,4 @@
-name: jupyter
+name: jupytercamila
 channels:
   - conda-forge
   - defaults
@@ -7,6 +7,8 @@ dependencies:
   - _openmp_mutex=4.5=0_gnu
   - attrs=19.3.0=py_0
   - backcall=0.1.0=py_0
+  - bash=5.0.011=hcee41ef_0
+  - bash_kernel=0.7.2=py38_1
   - bleach=3.1.0=py_0
   - ca-certificates=2019.11.28=hecc5488_0
   - certifi=2019.11.28=py38_0
@@ -70,5 +72,5 @@ dependencies:
   - zeromq=4.3.2=he1b5a44_2
   - zipp=1.0.0=py_0
   - zlib=1.2.11=h516909a_1006
-prefix: /home/cayalapintos/miniconda3/envs/jupyter
+prefix: /home/ubuntu/miniconda3/envs/jupytercamila
 
